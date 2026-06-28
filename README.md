@@ -13,8 +13,8 @@ A story-based educational game developed with Unity to teach programming fundame
 ### 💻 Training Management Platform
 A complete web platform developed during my cooperative training to automate training operations, participant management, and administrative workflows.
 
-### 🌍 Terhalkum
-A tourism application that helps users discover Saudi landmarks, explore destinations using VR, and book travel packages.
+### 🤖 Maharah – AI Behavioral Skills Training Platform
+Currently developing an AI-powered behavioral skills assessment platform that combines computer vision, pose estimation, and standardized evaluation criteria to deliver real-time feedback for practical training. Contributing to software architecture, frontend development, UI/UX design, and AI integration.
 
 ---
 
