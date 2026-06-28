@@ -2,6 +2,7 @@
 
 🎓 Computer Science Graduate from Umm Al-Qura University.
 I'm passionate about building software that solves real-world problems. I enjoy turning ideas into products, whether it's a web application, an educational game, or an AI-powered system.
+
 ---
 
 ## 🚀 Featured Projects
