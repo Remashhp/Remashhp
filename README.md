@@ -1,11 +1,7 @@
 # Hi, I'm Remas 👋
 
 🎓 Computer Science Graduate from Umm Al-Qura University.
-
 I'm passionate about building software that solves real-world problems. I enjoy turning ideas into products, whether it's a web application, an educational game, or an AI-powered system.
-
-Currently, I'm focusing on expanding my skills in Software Engineering, Data Analytics, and AI while looking for opportunities to grow.
-
 ---
 
 ## 🚀 Featured Projects
