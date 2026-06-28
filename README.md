@@ -14,7 +14,7 @@ A story-based educational game developed with Unity to teach programming fundame
 A complete web platform developed during my cooperative training to automate training operations, participant management, and administrative workflows.
 
 ### 🤖 Maharah – AI Behavioral Skills Training Platform
-Currently developing an AI-powered behavioral skills assessment platform that combines computer vision, pose estimation, and standardized evaluation criteria to deliver real-time feedback for practical training. Contributing to software architecture, frontend development, UI/UX design, and AI integration.
+Currently developing an AI-powered behavioral skills assessment platform with a small team, it combines computer vision, pose estimation, and standardized evaluation criteria to deliver real-time feedback for practical training.
 
 ---
 
