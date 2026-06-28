@@ -43,16 +43,6 @@ A tourism application that helps users discover Saudi landmarks, explore destina
 - Git & GitHub
 - Figma
 - XAMPP
-
----
-
-## 🌱 Currently Learning
-
-- Power BI
-- Data Analytics
-- AI Applications
-- Software Architecture
-
 ---
 
 ## 🤝 Let's Connect
