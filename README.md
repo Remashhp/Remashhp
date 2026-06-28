@@ -1,16 +1,63 @@
-## Hi there 👋
+# Hi, I'm Remas 👋
 
-<!--
-**Remashhp/Remashhp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Computer Science Graduate from Umm Al-Qura University.
 
-Here are some ideas to get you started:
+I'm passionate about building software that solves real-world problems. I enjoy turning ideas into products, whether it's a web application, an educational game, or an AI-powered system.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Currently, I'm focusing on expanding my skills in Software Engineering, Data Analytics, and AI while looking for opportunities to grow through Graduate Programs and challenging projects.
+
+---
+
+## 🚀 Featured Projects
+
+### 🎮 HakayTech
+A story-based educational game developed with Unity to teach programming fundamentals to children through interactive Arabic stories inspired by Saudi culture.
+
+### 💻 Training Management Platform
+A complete web platform developed during my cooperative training to automate training operations, participant management, and administrative workflows.
+
+### 🌍 Terhalkum
+A tourism application that helps users discover Saudi landmarks, explore destinations using VR, and book travel packages.
+
+---
+
+## 💻 Tech Stack
+
+**Languages**
+
+- C#
+- Java
+- Python
+- PHP
+- SQL
+- HTML
+- CSS
+- JavaScript
+
+**Frameworks & Technologies**
+
+- Unity
+- Flutter
+- FlutterFlow
+- Firebase
+- Git & GitHub
+- Figma
+- XAMPP
+
+---
+
+## 🌱 Currently Learning
+
+- Power BI
+- Data Analytics
+- AI Applications
+- Software Architecture
+
+---
+
+## 🤝 Let's Connect
+
+💼 LinkedIn  
+www.linkedin.com/in/remas-abukhalil
+
+📧 remasabdulsttar@gmail.com
