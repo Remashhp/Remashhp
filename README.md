@@ -1,7 +1,7 @@
 # Hi, I'm Remas 
 
 🎓 Computer Science Graduate.
-I'm passionate about building software that solves real-world problems. I enjoy turning ideas into products, whether it's a web application, an educational game, or an AI-powered system.
+I'm passionate about building software that solves real-world problems. I enjoy turning ideas into products, whether it's a web application, game, or an AI-powered system.
 
 ---
 
