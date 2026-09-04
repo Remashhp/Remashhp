@@ -1,4 +1,4 @@
-# Hi, I'm Remas 👋
+# Hi, I'm Remas 
 
 🎓 Computer Science Graduate from Umm Al-Qura University.
 I'm passionate about building software that solves real-world problems. I enjoy turning ideas into products, whether it's a web application, an educational game, or an AI-powered system.
@@ -39,7 +39,6 @@ Currently developing an AI-powered behavioral skills assessment platform with a 
 - Firebase
 - Git & GitHub
 - Figma
-- XAMPP
 ---
 
 ## 🤝 Let's Connect
