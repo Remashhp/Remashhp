@@ -5,9 +5,6 @@
   <img src="./assets/hero_banner.png" width="100%" alt="Remas - Software Engineer">
 </p>
 <br>
-<!-- ═══════════════════════════════════════════════════════════════ -->
-<!--                          ABOUT ME                              -->
-<!-- ═══════════════════════════════════════════════════════════════ -->
 
 <!-- ═══════════════════════════════════════════════════════════════ -->
 <!--                    ABOUT + TECH STACK                         -->
@@ -193,10 +190,6 @@ criteria to provide real-time feedback.
 
 <p align="center">
   <img src="./assets/cityscape.png" width="100%" alt="Cyber City">
-</p>
-
-<p align="center">
-  <img src="./assets/footer.png" width="400" alt="Turning ideas into products that matter">
 </p>
 
 <p align="center">
