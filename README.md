@@ -2,7 +2,7 @@
 <!--                        REMASHP PROFILE                         -->
 <!-- ═══════════════════════════════════════════════════════════════ -->
 <p align="center">
-  <img src="./assets/hero_banner.png" width="100%" alt="Remas - Software Engineer">
+  <img src="./assets/hero_banner_animated.gif" width="100%" alt="Remas - Software Engineer">
 </p>
 <br>
 
