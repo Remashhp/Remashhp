@@ -28,13 +28,6 @@
 I build web applications, AI-powered systems,
 and games, turning ideas into real products.
 
-I'm especially interested in building technology that is:
-
-✨ Useful  
-🎮 Fun  
-🤖 Intelligent  
-🌱 Meaningful
-
 </td>
 
 <!-- TECH STACK -->
