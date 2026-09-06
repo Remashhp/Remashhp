@@ -152,11 +152,6 @@ criteria to provide real-time feedback.
 <p align="center">
    <img src="./assets/little_details_float.gif" width="500" alt="Little Details">
 </p>
-
-<p align="center">
-  <img src="./assets/side_note.png" width="200" alt="A More Inclusive Tech Future">
-</p>
-
 ---
 
 <!-- ═══════════════════════════════════════════════════════════════ -->
