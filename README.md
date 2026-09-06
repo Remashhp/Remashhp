@@ -11,38 +11,31 @@
 <!-- ═══════════════════════════════════════════════════════════════ -->
 <!--                          ABOUT ME                              -->
 <!-- ═══════════════════════════════════════════════════════════════ -->
+<p align="left">
+  <img src="./assets/section_about.png" width="300" alt="About Me">
+</p>
+### Hi, I'm Remas! 💜
+
+💻 **Software Engineer · Full Stack Developer**  
+🤖 **AI Enthusiast · 🎮 Game Developer**
+
+I build web applications, AI-powered systems, and games,
+turning ideas into real products.
+
+I'm especially interested in:
+
+✨ Useful technology  
+🎮 Fun experiences  
+🤖 Intelligent systems  
+🌱 Meaningful products
 
 <p align="center">
-  <img src="./assets/section_about.png" width="400" alt="About Me">
+  <img src="./assets/badge_developer.png" height="32">
+  <img src="./assets/badge_ai.png" height="32">
+  <img src="./assets/badge_gamer.png" height="32">
+  <img src="./assets/badge_solver.png" height="32">
+  <img src="./assets/badge_learner.png" height="32">
 </p>
-
-<table>
-<tr>
-<td width="25%" align="center">
-
-<img src="./assets/profile_avatar.png" width="180" alt="Remas">
-
-</td>
-
-<td width="75%">
-
-### Hi, I'm Remas! 💜
-💻 Software Engineer · Full Stack Developer
-🤖 AI Enthusiast · 🎮 Game Developer
-
-I build web applications, AI-powered systems,
-and games, turning ideas into real products.
-<br>
-
-<img src="./assets/badge_developer.png" height="32">
-<img src="./assets/badge_solver.png" height="32">
-<img src="./assets/badge_learner.png" height="32">
-
-</td>
-</tr>
-</table>
-
----
 
 <!-- ═══════════════════════════════════════════════════════════════ -->
 <!--                     FEATURED PROJECTS                          -->
