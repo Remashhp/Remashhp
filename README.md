@@ -189,7 +189,7 @@ criteria to provide real-time feedback.
 ---
 
 <p align="center">
-  <img src="./assets/cityscape.png" width="100%" alt="Cyber City">
+  <img src="./assets/cityscape_animated.gif" width="100%" alt="Cyber City">
 </p>
 
 <p align="center">
