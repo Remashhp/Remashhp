@@ -76,8 +76,6 @@ I'm especially interested in building technology that is:
 
 <br>
 
----
-
 <!-- ═══════════════════════════════════════════════════════════════ -->
 <!--                     FEATURED PROJECTS                          -->
 <!-- ═══════════════════════════════════════════════════════════════ -->
@@ -144,7 +142,6 @@ criteria to provide real-time feedback.
 
 <br>
 
----
 <!-- ═══════════════════════════════════════════════════════════════ -->
 <!--                         LITTLE DETAILS                         -->
 <!-- ═══════════════════════════════════════════════════════════════ -->
@@ -152,7 +149,6 @@ criteria to provide real-time feedback.
 <p align="center">
    <img src="./assets/little_details_float.gif" width="500" alt="Little Details">
 </p>
----
 
 <!-- ═══════════════════════════════════════════════════════════════ -->
 <!--                         LET'S CONNECT                          -->
@@ -181,7 +177,7 @@ criteria to provide real-time feedback.
   <br>
   Let's build something amazing together.
 </p>
----
+
 
 <p align="center">
   <img src="./assets/cityscape_animated(1).gif" width="100%" alt="Cyber City">
