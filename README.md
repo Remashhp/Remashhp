@@ -171,17 +171,7 @@ criteria to provide real-time feedback.
   Let's build something amazing together.
 </p>
 
-
+<br>
 <p align="center">
   <img src="./assets/cityscape_animated(1).gif" width="100%" alt="Cyber City">
-</p>
-
-<p align="center">
-
-✨ 🎮 🤖 💻 ✨
-
-<br>
-
-<b>Building ideas. Creating products. Having fun along the way.</b>
-
 </p>
